@@ -10,4 +10,4 @@ Photos/Videos about the program
 
 # Information
 About this repo :D
-- <img src="images/issue.ico" alt="icon" width="20" /> In case of any error or problem, do not hesitate to report it in Issues, and if you want to make changes or add more things, do not hesitate to add a pull request. Any help is welcome and appreciated :3 Thanks for reading btw
+- <img src="images/issue.ico" alt="icon" width="20" /> In case of any error or problem, do not hesitate to report it in Issues, and if you want to make changes or add more things, do not hesitate to add a pull request. Any help is welcome and appreciated :3 Thanks for reading
